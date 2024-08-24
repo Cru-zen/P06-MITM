@@ -8,6 +8,6 @@ A man in the middle (MITM) attack is a general term for when a perpetrator posit
 ## Install
 
 ```
-git clone https://github.com/ANANT555/P06-MITM.git
+git clone https://github.com/Cru-zen/P06-MITM.git
 ```
 
